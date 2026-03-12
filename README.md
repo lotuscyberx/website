@@ -1,2 +1,2 @@
 # website
-Lotus Cyber Security Website
+Lotus Cybersecurity Website
